@@ -4,7 +4,7 @@
 >
 > 设备信息全，界面美观，简单部署，扩展板可玩性高
 
-![](.\picture\title.jpg)
+![](.\picture\title.png)
 
 
 
