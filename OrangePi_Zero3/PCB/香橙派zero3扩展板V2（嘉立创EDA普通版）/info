@@ -1,0 +1,355 @@
+{
+  "uuid": "45e5d6e22f47b72ff9799442fa6290e6",
+  "path": "Offline/香橙派zero3扩展板V2",
+  "name": "香橙派zero3扩展板V2",
+  "content": "香橙派zero3扩展板-1.47寸屏幕，双typec接口，usb防倒灌，ch340串口引出，排针引出，三个按键",
+  "created_at": "2023-08-26 08:54:45",
+  "updated_at": "2023-09-21 18:12:00",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "949f4909e06020b3e51fa630af9b6020",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bb009484ef804a24ac5d18c54b249586": 4,
+        "6c78b5029f864247b49a4e2d5fb9e94e": 2,
+        "428e74dac06f5fdf2a3534ca4ffcd9a1": 1,
+        "01f8feef49be43dcbfbe672254cb7b57": 4,
+        "fc0e6d9c3ada4ee28f3c9e268a017528": 1,
+        "24eeb2ceca08480b92b847b6a310acda": 4,
+        "c7e5854fa6bc4af9af6a30b521ed9c56": 1,
+        "aa3b1452824e430d93024a2337f8665d": 1,
+        "265040817d5a42a98d8f7a4e3a3beb21": 1,
+        "612bd83f607245479f3ee762a344a98e": 1,
+        "b82150387a2041b4afd55b90c79c5923": 3,
+        "a7291ceaee5442a999df26c55c7e675d": 1,
+        "ed9eb2faffb34286820a54a14e9e9e24": 3,
+        "ef5bd7f649df41b5b6f20d228906a3b8": 3
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "0.1u",
+          4,
+          "C0805",
+          "C1,C2,C3,C5",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "10u",
+          2,
+          "C0805",
+          "C4,C7",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0805_US",
+            "Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "b82150387a2041b4afd55b90c79c5923"
+          }
+        ],
+        [
+          "0.1u",
+          1,
+          "C0805",
+          "C6",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0805_US",
+            "Manufacturer Part": "",
+            "puuid": "2ee8eb13a0124a108e622ce40c0c25a8",
+            "uuid": "b82150387a2041b4afd55b90c79c5923"
+          }
+        ],
+        [
+          "DSS34",
+          1,
+          "SOD-123_L2.8-W1.8-LS3.7-RD",
+          "D1",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer Part": "DSS34",
+            "Manufacturer": "星海",
+            "Supplier Part": "C84632",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "DSS34",
+            "puuid": "60a676d313ae48718a81c380b73dfe4f",
+            "uuid": "428e74dac06f5fdf2a3534ca4ffcd9a1"
+          }
+        ],
+        [
+          "13PIN",
+          1,
+          "HDR-TH_13P-P2.54-V-F",
+          "H1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C3012085",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "PM254-1-13-Z-8.5",
+            "link": "https://atta.szlcsc.com/upload/public/pdf/source/20210927/A587EC018F0ED68DBE3C69C90D2D513F.pdf",
+            "Contributor": "lcsc",
+            "spiceSymbolName": "PM254-1-13-Z-8.5_C3012085",
+            "puuid": "ef4b959f78a0437b870d6189a91fb3a8",
+            "uuid": "265040817d5a42a98d8f7a4e3a3beb21"
+          }
+        ],
+        [
+          "26PIN",
+          1,
+          "HDR-TH_26P-P2.54-V-F-R2-C13-S2.54-1",
+          "H2",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C2897414",
+            "Manufacturer": "HCTL(华灿天禄)",
+            "Manufacturer Part": "PM254-2-13-Z-8.5",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "PM254-2-13-Z-8.5",
+            "puuid": "2fda041662f543498038958e7cb8e823",
+            "uuid": "aa3b1452824e430d93024a2337f8665d"
+          }
+        ],
+        [
+          "HDR-F-2.54_1x3",
+          1,
+          "HDR-F-2.54_1X3",
+          "H3",
+          {
+            "Supplier Part": "C146690",
+            "Supplier": "LCSC",
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "image": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "HDR-F-2.54_1x3",
+            "puuid": "f83673d09e13450d934ca6be4be5af8f",
+            "uuid": "a7291ceaee5442a999df26c55c7e675d"
+          }
+        ],
+        [
+          "AO3400",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "Q1",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C2848737",
+            "Manufacturer": "BORN(伯恩半导体)",
+            "Manufacturer Part": "AO3400",
+            "Contributor": "LCSC",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "AO3400_C2848737",
+            "puuid": "bade90667a6e4731855e9a223387b8a6",
+            "uuid": "fc0e6d9c3ada4ee28f3c9e268a017528"
+          }
+        ],
+        [
+          "10k",
+          3,
+          "R0805",
+          "R1,R2,R5",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0805_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "ed9eb2faffb34286820a54a14e9e9e24"
+          }
+        ],
+        [
+          "5.1k",
+          4,
+          "R0805",
+          "R3,R4,R11,R12",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0603_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "bb009484ef804a24ac5d18c54b249586"
+          }
+        ],
+        [
+          "100",
+          1,
+          "R0805",
+          "R6",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0402_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "01f8feef49be43dcbfbe672254cb7b57"
+          }
+        ],
+        [
+          "100k",
+          1,
+          "R0805",
+          "R7",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0402_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "01f8feef49be43dcbfbe672254cb7b57"
+          }
+        ],
+        [
+          "15",
+          2,
+          "R0805",
+          "R8,R9",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_0402_EU",
+            "Manufacturer Part": "",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "01f8feef49be43dcbfbe672254cb7b57"
+          }
+        ],
+        [
+          "LCD-1.47",
+          1,
+          "ZJY-LBS147TC-IG01",
+          "U1",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "GH_LI",
+            "spiceSymbolName": "LCD-1.47",
+            "puuid": "29594c7c565347428e33f9fca8c666af",
+            "uuid": "c7e5854fa6bc4af9af6a30b521ed9c56"
+          }
+        ],
+        [
+          "CH340N",
+          1,
+          "SOP-8_L5.0-W4.0-P1.27-LS6.0-BL",
+          "U2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C506813",
+            "Manufacturer": "WCH(南京沁恒)",
+            "Manufacturer Part": "CH340N",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://so.szlcsc.com/global.html?k=C506813&ref=editor",
+            "spiceSymbolName": "CH340N",
+            "puuid": "2436bf05661b4486b52c0ac0bbf7b52f",
+            "uuid": "612bd83f607245479f3ee762a344a98e"
+          }
+        ],
+        [
+          "两脚小龟 3*4*2",
+          3,
+          "SW-SMD_L4.0-W2.9-LS5.0",
+          "U3,U4,U5",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2837315",
+            "Manufacturer": "null",
+            "Manufacturer Part": "两脚小龟 3*4*2",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://so.szlcsc.com/global.html?k=C2837315&ref=editor",
+            "spiceSymbolName": "两脚小龟 3*4*2",
+            "puuid": "54b9ab7aebe5456bbc9f2879b8d360ff",
+            "uuid": "ef5bd7f649df41b5b6f20d228906a3b8"
+          }
+        ],
+        [
+          "TYPE-C",
+          2,
+          "USB-TYPE-C-SMD_TYPE-C-16P-QTWT",
+          "USB2,USB4",
+          {
+            "Supplier": "LCSC",
+            "Supplier Part": "C5187472",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Manufacturer Part": "TYPE-C 16P QTWT",
+            "Contributor": "lcsc",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "TYPE-C 16P QTWT",
+            "puuid": "72af86f709ad4dd7b8d89695906e6b29",
+            "uuid": "6c78b5029f864247b49a4e2d5fb9e94e"
+          }
+        ]
+      ],
+      "updateTime": 1695270867,
+      "createTime": 1693011285,
+      "histories": [],
+      "created_at": "2023-08-26 08:54:45",
+      "updated_at": "2023-09-21 12:34:27"
+    },
+    {
+      "uuid": "75d939023c755612840cb3578c953017",
+      "title": "PCB_香橙派zero3扩展板_V2",
+      "filename": "PCB_香橙派zero3扩展板_V2.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "updateTime": 1695291120,
+      "createTime": 1693044761,
+      "histories": [],
+      "created_at": "2023-08-26 18:12:41",
+      "updated_at": "2023-09-21 18:12:00",
+      "components": {
+        "b60f399a7a7e41848b2be1eb49c79141": 11,
+        "2ee8eb13a0124a108e622ce40c0c25a8": 7,
+        "60a676d313ae48718a81c380b73dfe4f": 1,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "2436bf05661b4486b52c0ac0bbf7b52f": 1,
+        "72af86f709ad4dd7b8d89695906e6b29": 2,
+        "ef4b959f78a0437b870d6189a91fb3a8": 1,
+        "2fda041662f543498038958e7cb8e823": 1,
+        "54b9ab7aebe5456bbc9f2879b8d360ff": 3,
+        "f83673d09e13450d934ca6be4be5af8f": 1,
+        "29594c7c565347428e33f9fca8c666af": 1
+      }
+    }
+  ],
+  "sort": [],
+  "title": "香橙派zero3扩展板V2",
+  "foldername": "香橙派zero3扩展板V2",
+  "schfilename": "香橙派zero3扩展板.json",
+  "schfilemtime": 1695270867104
+}
